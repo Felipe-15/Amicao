@@ -1,0 +1,4 @@
+export const SET_DATA = "SET_DATA";
+export const ADD_ANIMAL_BADGE = "ADD_ANIMAL_BADGE";
+export const DEL_ANIMAL_BADGE = "DEL_ANIMAL_BADGE";
+export const CANCEL_ADDED_ANIMAL = "CANCEL_ADDED_ANIMAL";
